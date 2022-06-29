@@ -11,7 +11,7 @@
     <properties>
         <selenium.java>3.141.59</selenium.java>
         <testng.version>7.1.0</testng.version>
-        <poi.version>3.17</poi.version>
+        <poi.version>4.1.1</poi.version>
     </properties>
 
     <dependencies>
